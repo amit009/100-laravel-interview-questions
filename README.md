@@ -1237,10 +1237,10 @@ Answer: D
 
 **77. How do you encrypt and decrypt data in Laravel?**
 ```php
-a) Using Crypt::encrypt() and Crypt::decrypt()
-b) Using Hash::make() and Hash::check()
-c) Storing data as base64 strings
-d) Using the secure() helper function
+A) Using Crypt::encrypt() and Crypt::decrypt()
+B) Using Hash::make() and Hash::check()
+C) Storing data as base64 strings
+D) Using the secure() helper function
 ```
 <details>
 	<summary><b>View Answer</b></summary>
